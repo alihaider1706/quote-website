@@ -1,2 +1,5 @@
-# quote-website
- A website featuring motivational quotes
+
+# My Quotes Website
+Welcome to my repository! Here is my WordPress website featuring amazing quotes:
+
+[Visit My Website](https://dev-quotesdeep.pantheonsite.io/))
